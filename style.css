@@ -22,7 +22,7 @@
 
 }
 
-/* Para escvribir uns clase que esta en el html, se escribe con punto .home-wrapper */
+/* Para escribir una clase que esta en el html, se escribe con punto .home-wrapper */
 
 .home-wrapper {
     /* imagen de fondo */
@@ -43,7 +43,7 @@ header {
 
 /* cambiar tamaño a el logo */
 header img {
-    width: 230px;
+    width: 500px !important;
 
 }
 
