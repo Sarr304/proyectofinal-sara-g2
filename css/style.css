@@ -4,17 +4,18 @@
 }
 
 #menu{
-    background-color: #FFFDFC !important;
+    background-color: #FFF9E1!important;
+   
 }
 
 .alto-img{
-    height: 400px;
+    height: 700px;
     
 }
 .nav-link{
     color: black !important;
-    font-weight: 750 !important;
-    font-size: 22px !important;
+    font-weight: 530 !important;
+    font-size: 32px !important;
     
 }
 .nav-link:hover{
@@ -32,7 +33,7 @@ body{
 }
 /* novedades */
 #novedades{
-    background-color: aliceblue;
+    background-color: #FFF9E1;
 }
 #panes .titulo{
     width: 100%;
@@ -45,6 +46,11 @@ body{
     text-align: center;
     color: rgb(0, 0, 0);
 
+}
+
+.pan{
+    width: 80%;
+    height: 300px;
 }
 #panes .pan{
     width: 80%;
@@ -63,7 +69,7 @@ height: 300px;
 }
 /* footer */
 #page-footer{
-    background-color: #EDDBBF !important;
+    background-color: #FFF9E1 !important;
 }
 
 #page-footer a{
